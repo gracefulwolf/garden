@@ -22,7 +22,7 @@ button, input[type=button]{cursor:pointer;}
 .inner{max-width: 1100px; margin: 0 auto; position: relative;}
 
 /* top 영역*/
-#wrap{max-width: 1100px;position: relative;margin: 0 auto;}
+#wrap{max-width: 1100px;position: relative;margin: 0 auto; }
 #header{max-width: 1100px;height: 80px;position: relative;margin: 0 auto; background: #fff;}
 .header_wrap h1{float: left; padding-top: 21px;}
 #util_menu{position: absolute; top: 12px; right: 0;}
