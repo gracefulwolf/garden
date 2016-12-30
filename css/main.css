@@ -1,9 +1,9 @@
 @charset "utf-8";
 /*컨테이너*/
-#container { max-width: 1920px; height: 100%; position: relative; margin: 0 auto; /*height: 975px;*/}
+#container { max-width: 1920px; height: 100%; position: relative; margin: 0 auto;/*height: 975px;*/}
 .con_bg_wrap{position: relative;  }
 .con_bg_slide{margin-bottom:-420px;}
-.con_bg_slide img{max-height: 975px; width: 100%;}
+.con_bg_slide img{min-height: 975px; width: 100%;}
 .con_bg_slide ul li{float: left;}
 
 /*메인섹션*/
